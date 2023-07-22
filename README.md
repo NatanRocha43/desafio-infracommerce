@@ -1,8 +1,8 @@
 # 🚀 Calculadora em React
 
-![Calculadora Preview](./src/assets/calculadora.png)
-
 Este é um projeto de uma calculadora simples desenvolvida em React.
+
+![Calculadora Preview](./src/assets/calculadora.png)
 
 ## 🔢 Funcionalidades
 
